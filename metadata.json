@@ -1,0 +1,6 @@
+{
+  "name": "PrepLedger",
+  "description": "Personal daily LeetCode streak tracker, 14-day Python sprint planner, and internship recruiting ledger stored locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
